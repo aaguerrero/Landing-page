@@ -30,7 +30,7 @@ body{
     background-color: #ddd;
     color: black;
 }
-
+/* imagen grande de la foto */
 .hero {
     position: relative;
     height: 35vh; /*esta cosa hace que no se use mas de x parte de la pantalla */
@@ -42,7 +42,7 @@ body{
     object-fit: cover;
     /* display: block; */
 }
-
+/* texto de la foto */
 .hero-text {
     position: absolute;
     top: 50%;
@@ -87,7 +87,7 @@ body{
     /* height: 300px; */
 }
 
-
+/* pie de paginA */
 footer {
     background-color: #333;
     color: white;
